@@ -56,6 +56,7 @@ function sendRefreshRequest() {
     })
     .catch(function (error) {
       removeToken();
+      // also you can do something...
     });
 }
 

@@ -68,6 +68,7 @@ function sendRefreshRequest() {
         return response.json();
       }
       removeToken();
+      // also you can do something...
     })
     .then((jsonData) => {
       if (jsonData) {
