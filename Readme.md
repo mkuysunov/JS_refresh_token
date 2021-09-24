@@ -11,4 +11,4 @@
 
 **Belove images show how the structure will work for one requst and parallel request**
 
-<img align="center" width="200" height="200" src="https://github.com/mkuysunov/JS_refresh_token-/blob/main/images/demo-image.png">
+<img align="center" width="200" height="200" src="https://github.com/mkuysunov/JS_refresh_token-/blob/main/demo_images/common.png">
